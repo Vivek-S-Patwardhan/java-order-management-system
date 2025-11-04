@@ -31,4 +31,15 @@ A backend-based **Order Management System (OMS)** built using **Java**, **Maven*
 ---
 
 ##  Project Structure
-
+java-order-management-system/
+├── src/main/java/com/vivek/oms/
+│ ├── model/ # Entity classes (Product, Order, User)
+│ ├── dao/ # DAO interfaces and implementations
+│ ├── util/ # Utility classes (DB connection, etc.)
+│ ├── exception/ # Custom exceptions
+│ ├── main/ # Main application entry point
+│ └── DataInitializer.java
+├── src/main/resources/
+│ └── db.properties # Database configuration file
+├── pom.xml # Maven dependencies
+└── README.md
