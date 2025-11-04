@@ -1,3 +1,10 @@
+##  Author
+
+**Vivek S Patwardhan**  
+vivekpatwardhan96@gmail.com  
+www.linkedin.com/in/vivek-s-patwardhan
+
+
 #  Java Order Management System
 
 A backend-based **Order Management System (OMS)** built using **Java**, **Maven**, and **MySQL**, demonstrating CRUD operations, layered architecture, exception handling, and database connectivity — ideal for showcasing backend development skills.
